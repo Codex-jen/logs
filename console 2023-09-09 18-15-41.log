@@ -1,0 +1,3 @@
+2023-09-09 18:15:41.330 Sketches[1035:1271040] ⚠️Error while scanning trash folder: Error Domain=NSCocoaErrorDomain Code=260 "無法打開檔案「iPhone|Trash」，因為沒有此檔案。" UserInfo={NSURL=file:///var/mobile/Containers/Data/Application/284DF493-1551-457C-8677-46EC2ADFEF08/Documents/iPhone%7CTrash, NSFilePath=/var/mobile/Containers/Data/Application/284DF493-1551-457C-8677-46EC2ADFEF08/Documents/iPhone|Trash, NSUnderlyingError=0x280b77ea0 {Error Domain=NSPOSIXErrorDomain Code=2 "No such file or directory"}}
+2023-09-09 18:15:43.328 Sketches[1035:198761] ⚠️Concrete classes of FoldersViewController are of different size
+2023-09-09 18:15:43.330 Sketches[1035:198761] ⚠️Concrete classes of FilesViewController are of different size
